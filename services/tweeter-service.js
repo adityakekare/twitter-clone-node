@@ -1,4 +1,4 @@
-const tweetsJson = require('../data/tweets.json');
+let tweetsJson = require('../data/tweets.json');
 
 module.exports = (app) => {
 
@@ -7,6 +7,8 @@ module.exports = (app) => {
     }
 
     const postNewTweet = (req, res) => {
+        // const newTweet = req.body;
+
         const newTweet = {
             "_id" : (new Date()).getTime() + '',
             "caption": "Web Development",
@@ -16,13 +18,15 @@ module.exports = (app) => {
             "image": "../../images/react.png",
             "postImage": "../../images/react.png",
             "likes": 0,
+            "text": "",
             ...req.body,
         }
-        let tweets = [
+        tweetsJson = [
             newTweet,
             ...tweetsJson
         ];
-        res.json(tweets);
+        console.log(tweetsJson);
+        res.json(tweetsJson);
     }
 
     const deleteTweet = (req, res) => {
