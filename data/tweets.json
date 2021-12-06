@@ -1,24 +1,4 @@
-[
-    {   "_id": 1,
-        "image": "../../images/elon.jpg",
-        "author": "Elon Musk",
-        "handle": "elonmusk",
-        "time": "23h",
-        "tweet": "Amazing show about @inspiration4x mission",
-        "postImage":"../../images/astronaut.jpg",
-        "caption":"Countdown: Inspiration4 Mission to Space | Netflix Official Site",
-        "text":"From training to launch to landing, this all-access docuseries rides along with the inspiration4 crew on the first all civlian orbital space..",
-        "likes": 1244
-    },
-    {   "_id": 2,
-        "image": "../../images/nyp.png",
-        "author": "New York Post",
-        "handle": "nypost",
-        "time": "23h",
-        "tweet": "Grimes seen reading Karl Marx following split with world's richest man Elon Musk",
-        "postImage":"../../images/grimes.jpg",
-        "caption":"",
-        "text":"",
-        "likes": 5354
-    }
-]
+{"_id":1.0,"image":"../../images/elon.jpg","author":"Elon Musk","handle":"elonmusk","time":"23h","tweet":"Amazing show about @inspiration4x mission","postImage":"../../images/astronaut.jpg","caption":"Countdown: Inspiration4 Mission to Space | Netflix Official Site","text":"From training to launch to landing, this all-access docuseries rides along with the inspiration4 crew on the first all civlian orbital space..","likes":1244.0}
+{"_id":2.0,"image":"../../images/nyp.png","author":"New York Post","handle":"nypost","time":"23h","tweet":"Grimes seen reading Karl Marx following split with world's richest man Elon Musk","postImage":"../../images/grimes.jpg","caption":"","text":"","likes":5354.0}
+{"_id":{"$oid":"61adc6f5a083d76e837c1cd2"},"tweet":"React is <3","__v":0}
+{"_id":{"$oid":"61adc700a083d76e837c1cd4"},"tweet":"Tesla makes the best cars.","__v":0}

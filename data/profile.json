@@ -1,10 +1,1 @@
-[
-	{
-		"id": 1,
-	"firstName": "Aditya",	"lastName": "Kekare",	"handle": "adityakekare",
-	"profilePicture": "../../images/aditya.jpg", 	"bannerPicture": "../../images/deadpool.jpg",
-	"bio": "Choco-chip cookie connoisseur",	"website": "notaditya.com",
-	"location": "Boston, MA",	"dateOfBirth": "06/21/1998",	"dateJoined": "4/2020",
-	"followingCount": "1",	"followersCount": "231231"
-	}
-]
+{"_id":{"$oid":"61adbbffd8010eb053d618ca"},"firstName":"Aditya","lastName":"Kekare","handle":"adityakekare","profilePicture":"../../images/aditya.jpg","bannerPicture":"../../images/deadpool.jpg","bio":"Choco-chip cookie connoisseur","website":"notaditya.com","location":"Boston, MA","dateOfBirth":"06/21/1998","dateJoined":"4/2020","followingCount":"1","followersCount":"231231"}
