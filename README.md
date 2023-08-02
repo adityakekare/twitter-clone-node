@@ -1,12 +1,12 @@
-#Node Twitter App
+# Node Twitter App
 
-##A9 database files are present in data/ directory
+## A9 database files are present in data/ directory
 
-###Links:
+### Links:
 
-####Deployment
+#### Deployment
 [React App](https://distracted-montalcini-caf8c6.netlify.app) |
 [Node App](https://heroku-node-app-2021.herokuapp.com/hello)
 
-####Git
+#### Git
 [React App](https://github.com/adityakekare/web-dev)
